@@ -1,7 +1,5 @@
-[
-  {
-    "name": "reearth",
-    "description": "Official Plugin",
-    "createdAt": "2021-03-16T04:19:57.592Z"
-  }
-]
+{
+   "name": "reearth",
+   "description": "Official Plugin",
+   "createdAt": "2021-03-16T04:19:57.592Z"
+}
